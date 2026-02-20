@@ -1,1 +1,1 @@
-# React-Sample-Reusability
+Sample of Reusability
